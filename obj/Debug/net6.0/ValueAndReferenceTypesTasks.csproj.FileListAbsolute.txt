@@ -1,0 +1,14 @@
+C:\Users\Adil\Desktop\ValueAndReferenceTypesTasks\bin\Debug\net6.0\ValueAndReferenceTypesTasks.exe
+C:\Users\Adil\Desktop\ValueAndReferenceTypesTasks\bin\Debug\net6.0\ValueAndReferenceTypesTasks.deps.json
+C:\Users\Adil\Desktop\ValueAndReferenceTypesTasks\bin\Debug\net6.0\ValueAndReferenceTypesTasks.runtimeconfig.json
+C:\Users\Adil\Desktop\ValueAndReferenceTypesTasks\bin\Debug\net6.0\ValueAndReferenceTypesTasks.dll
+C:\Users\Adil\Desktop\ValueAndReferenceTypesTasks\bin\Debug\net6.0\ValueAndReferenceTypesTasks.pdb
+C:\Users\Adil\Desktop\ValueAndReferenceTypesTasks\obj\Debug\net6.0\ValueAndReferenceTypesTasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adil\Desktop\ValueAndReferenceTypesTasks\obj\Debug\net6.0\ValueAndReferenceTypesTasks.AssemblyInfoInputs.cache
+C:\Users\Adil\Desktop\ValueAndReferenceTypesTasks\obj\Debug\net6.0\ValueAndReferenceTypesTasks.AssemblyInfo.cs
+C:\Users\Adil\Desktop\ValueAndReferenceTypesTasks\obj\Debug\net6.0\ValueAndReferenceTypesTasks.csproj.CoreCompileInputs.cache
+C:\Users\Adil\Desktop\ValueAndReferenceTypesTasks\obj\Debug\net6.0\ValueAndReferenceTypesTasks.dll
+C:\Users\Adil\Desktop\ValueAndReferenceTypesTasks\obj\Debug\net6.0\refint\ValueAndReferenceTypesTasks.dll
+C:\Users\Adil\Desktop\ValueAndReferenceTypesTasks\obj\Debug\net6.0\ValueAndReferenceTypesTasks.pdb
+C:\Users\Adil\Desktop\ValueAndReferenceTypesTasks\obj\Debug\net6.0\ValueAndReferenceTypesTasks.genruntimeconfig.cache
+C:\Users\Adil\Desktop\ValueAndReferenceTypesTasks\obj\Debug\net6.0\ref\ValueAndReferenceTypesTasks.dll
